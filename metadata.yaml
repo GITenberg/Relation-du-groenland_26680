@@ -1,0 +1,31 @@
+_repo: Relation-du-groenland_26680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Peyrère, Isaac de
+    aliases:
+    - Peyrère, Isaac de la
+    - La Peyrere, Isaac de
+    birthdate: 1594
+    deathdate: 1676
+    gutenberg_agent_id: '25034'
+    url: http://www.gutenberg.org/2009/agents/25034
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_La_Peyr%C3%A8re
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2008-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26680'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Greenland -- Description and travel'
+title: Relation du groenland
+url: http://www.gutenberg.org/ebooks/26680
